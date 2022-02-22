@@ -1,6 +1,6 @@
 # Employee-Tracker
 
-🔍 `An amazing pplication that uses user input from inquirer to populate an employee tracker database displaying members of a company.` </br>
+🔍 `An amazing application that uses user input from inquirer to populate an employee tracker database displaying members of a company.` </br>
    `The app is built a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.`
 
 # User Story
@@ -44,7 +44,7 @@
 
 
 ## Questions
-`✉️ Contact me with any questions: [email](mailto:nehailakarmel@gmail.com) , [GitHub](https://github.com/Nehailaa)<br />`
+✉️` Contact me with any questions`: [email](mailto:nehailakarmel@gmail.com) , [GitHub](https://github.com/Nehailaa)<br />
 
 
 
