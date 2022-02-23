@@ -21,10 +21,12 @@
   "dependencies": {
     "console.table": "^0.10.0",
     "express": "^4.17.3",
+    "file-system": "^2.2.2",
     "fs": "^0.0.1-security",
     "inquirer": "^8.2.0",
     "mysql2": "^2.3.3",
-    "prompt": "^1.2.2"
+    "prompt": "^1.2.2",
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "jest": "^27.5.1"

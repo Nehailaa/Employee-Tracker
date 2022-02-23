@@ -33,6 +33,19 @@
 
 `The following screenhot shows the application that it is being used from the command line:`
 
+## Installation
+💾   
+  
+`npm init`
+  
+`npm install inquirer`
+
+`npm install mysql2`
+
+`npm install console-table`
+
+`npm install validator`
+
 # Usage
 
 💻
