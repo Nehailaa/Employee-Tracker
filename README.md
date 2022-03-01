@@ -44,7 +44,7 @@
 
 `npm install console-table`
 
-`npm install validator`
+`npm install dotenv --save`
 
 # Usage
 
