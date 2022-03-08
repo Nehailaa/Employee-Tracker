@@ -33,6 +33,11 @@
 
 `The following screenhot shows the application that it is being used from the command line:`
 
+
+<img src="Demo/Employee Tracker Demo.png" alt="Mock-up of the project" />
+
+
+
 ## Installation
 💾   
   
